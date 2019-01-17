@@ -9,6 +9,7 @@ verify_ssl = true
 django = "==2.1"
 djangorestframework = "*"
 django-rest-auth = "*"
+django-allauth = "*"
 
 [requires]
 python_version = "3.6"
